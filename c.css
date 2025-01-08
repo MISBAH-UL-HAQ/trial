@@ -5,3 +5,10 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
 }
+p{
+    color:teal ;
+    background-color: burlywood;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
